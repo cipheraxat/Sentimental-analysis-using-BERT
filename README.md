@@ -41,7 +41,7 @@ For more information, the original paper can be found [here](https://arxiv.org/a
 
 [HuggingFace documentation](https://huggingface.co/transformers/model_doc/bert.html)
 
-[Bert documentation](https://characters.fandom.com/wiki/Bert_(Sesame_Street) ;)
+[Bert documentation](https://characters.fandom.com/wiki/Bert_(Sesame_Street)) ;)
 
 
 ## Exploratory Data Analysis and Preprocessing
