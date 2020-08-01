@@ -46,4 +46,16 @@ For more information, the original paper can be found [here](https://arxiv.org/a
 
 ## Exploratory Data Analysis and Preprocessing
 
+I used the SMILE Twitter dataset.
+
+_Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.3187909.v2_
+
+
+## Defining our Performance Metrics
+
+Accuracy metric approach originally used in accuracy function in [this tutorial](https://mccormickml.com/2019/07/22/BERT-fine-tuning/#41-bertforsequenceclassification).
+
+## Creating our Training Loop
+
+Approach adapted from an older version of HuggingFace's `run_glue.py` script. Accessible [here](https://github.com/huggingface/transformers/blob/5bfcd0485ece086ebcbed2d008813037968a9e58/examples/run_glue.py#L128).
 
