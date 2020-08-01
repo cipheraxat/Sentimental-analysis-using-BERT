@@ -44,7 +44,7 @@ For more information, the original paper can be found [here](https://arxiv.org/a
 [Bert documentation](https://characters.fandom.com/wiki/Bert_(Sesame_Street)) ;)
 
 
-!(https://github.com/cipheraxat/Sentimental-analysis-using-BERT/blob/master/Images/BERT_diagrams.png)
+![Bert architecture](https://github.com/cipheraxat/Sentimental-analysis-using-BERT/blob/master/Images/BERT_diagrams.png)
 
 ## Exploratory Data Analysis and Preprocessing
 
